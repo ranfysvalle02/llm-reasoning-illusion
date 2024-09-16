@@ -50,7 +50,7 @@ In essence, it's a way of thinking that goes beyond automatic responses or pre-l
 **Implementing Reasoning in LLMs via Reinforcement Learning**
    * **Reward-based learning:** Training LLMs to make decisions based on rewards or punishments.
    * **Reasoning as a game:** Formulating reasoning tasks as games where the LLM learns to make optimal choices.
-   * **Example:** Training an LLM to play a reasoning game like chess or Go.
+   * **Example:** Training an LLM to play a reasoning game like chess.
 
 _NOTE: At the core of [OpenAI](https://openai.com/index/learning-to-reason-with-llms/) o1's capabilities is its large-scale reinforcement learning algorithm. This approach teaches the model how to think productively by encouraging it to generate chains of thought that lead to correct solutions._
 
