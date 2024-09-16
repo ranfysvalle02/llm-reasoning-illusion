@@ -75,7 +75,7 @@ print("gpt-35-turbo")
 print(ai_response.choices[0].message.content)
 print("------------")
 ai_response = az_client.chat.completions.create(
-    model="gpt-4o",
+    model="gpt-35-turbo",
     messages=[
         {"role": "user", "content": "Count the occurrences of the letter 'r' in the word 'strawberry'."},
         {"role": "system", "content": """         
