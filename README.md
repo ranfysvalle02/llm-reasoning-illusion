@@ -129,3 +129,5 @@ Therefore, the letter 'r' appears 3 times in the word 'strawberry'.
 **Resources**
 
 [Why can't LLM's count?](https://github.com/ranfysvalle02/strawberry-ai)
+
+[What does it really mean to learn?](https://www.newyorker.com/culture/open-questions/what-does-it-really-mean-to-learn)
