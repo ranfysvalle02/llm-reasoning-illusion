@@ -6,7 +6,7 @@ The illusion of reasoning in LLMs stems from their ability to generate coherent 
 
 **Wozniak’s Perspective on Intelligence and Reasoning**
 
-An interesting point raised by Steve Wozniak in from [Hackers Wanted - 2009](https://youtube.com/clip/UgkxNjTUlN1Tpt4ZRlQkyJ6Jd0hUdhFXuDE4?si=8Tc_u3ES-ib1xLV4) critiques the way we often define intelligence:
+An interesting point raised by Steve Wozniak in [Hackers Wanted - 2009](https://youtube.com/clip/UgkxNjTUlN1Tpt4ZRlQkyJ6Jd0hUdhFXuDE4?si=8Tc_u3ES-ib1xLV4) critiques the way we often define intelligence:
 
 *“So, we don't teach thinking as much as we teach, you know, rigorous rote. And intelligence is not defined as somebody having a brain that can think and think and consider all the possibilities and come up with the best solution. Oh no no! Intelligence is saying the exact same things as everyone else. You read the same newspaper articles. You watched the same news shows. You read the same books. And now you can say exactly the same things about how the world works. So you all know you're in a group. It's almost like a religion. And we're all the same. And we're intelligent because I say it and you say it. And you're intelligent so I'm intelligent. And we never really have a real good way of measuring 'are you really thinking?' and putting it together and coming up with your own solutions. No. We don't define that as intelligent. We often define it as dumb.”*
 
